@@ -44,3 +44,15 @@ For this instance, the inbound rule was modified to allow traffic via port 80 to
 
 ![Loadbalancer inbound rule](https://github.com/oghare01/Automating_Loadbalancer_with_Shell_Scripting/assets/141191975/bc125e8f-7de1-4017-872a-e336e6ce351a)
 
+8. Nginx script setup
+
+A script to install and setup the Nginx (the loadbalancer) was written after connecting to the second webserver via SSH 
+![Nginx script](https://github.com/oghare01/Automating_Loadbalancer_with_Shell_Scripting/assets/141191975/63d6dae0-5b84-40b3-afb0-cfb55785fce8)
+
+9. File permission and script run
+
+The file permission to enable the script become executable was carried out and the script was run 
+The result showed that Nginx was setup successfully by running the script 
+
+![Nginx setup successfully](https://github.com/oghare01/Automating_Loadbalancer_with_Shell_Scripting/assets/141191975/a30cb84f-e139-4125-b87b-2b686c6bf994)
+
