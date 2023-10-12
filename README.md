@@ -56,3 +56,13 @@ The result showed that Nginx was setup successfully by running the script
 
 ![Nginx setup successfully](https://github.com/oghare01/Automating_Loadbalancer_with_Shell_Scripting/assets/141191975/a30cb84f-e139-4125-b87b-2b686c6bf994)
 
+10. Testing the IP addresses
+
+With the two systems setup, a check was carried out for both IP addresses. 
+The results revealed that the webserver 1 worked as planned while the Nginx weberserver did not seem to give the intended result 
+
+![web 1](https://github.com/oghare01/Automating_Loadbalancer_with_Shell_Scripting/assets/141191975/02bd0ed5-18f3-4b6a-8545-f626dda27654)
+
+![Web 2](https://github.com/oghare01/Automating_Loadbalancer_with_Shell_Scripting/assets/141191975/89dffecd-b12c-4b40-ac50-91b39dcd03bc)
+
+Further work would be needed to see why the loadbalancer doesn't match the expected result 
